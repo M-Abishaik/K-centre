@@ -203,7 +203,7 @@ public class Network<V>{
 		graph.addEdge("4","0",100);
 
 		graph.addEdge("1", "2",200);
-  		graph.addEdge("2", "1",200);
+  		graph.addEdge("2", "1",200);					// HARD-CODED
 
   		graph.addEdge("1", "3",56);
   		graph.addEdge("3", "1",56);
